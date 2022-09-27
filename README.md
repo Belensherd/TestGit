@@ -4,4 +4,17 @@
 #### Cabecera H4
 ##### Cabecera H5
 ###### Cabecera H6
-Soy un readme
+
+
+Underline 1
+----------
+
+Underline 2
+======
+
+
+- *italica*
+- _italica_
+- **bold** o __strong__
+- ~~tachado~~
+
