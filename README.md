@@ -121,3 +121,35 @@ datahere */
 datahere
 ```
 
+# tablas
+
+| Nombre | Apellido | Edad |
+|--------|----------|------|
+| Gustavo| Ageitos| 40
+|Teresa|Dumenes|42|
+|Aosefina|Ageitos|6|
+
+
+# Citas
+
+Luego del indicador de cita dejar un salto de linea extra
+>cita
+
+otra linea
+
+
+# lineas
+
+
+---
+****
+___
+
+
+# Saltos de linea
+
+primer parrafo
+
+segudo parrafo
+
+
